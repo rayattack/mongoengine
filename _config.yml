@@ -10,5 +10,7 @@ defaults:
   - scope:
       path: ""
       type: posts
+      toc: true
+      toc_label: "Introduction Topics"
     values:
       read_time: true
