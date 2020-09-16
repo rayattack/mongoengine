@@ -1,3 +1,14 @@
 theme: minima
+breadcrumbs: true
 show_downloads: true
 include: ["_pages"]
+
+search: true
+
+defaults:
+  #posts
+  - scope:
+      path: ""
+      type: posts
+    values:
+      read_time: true
