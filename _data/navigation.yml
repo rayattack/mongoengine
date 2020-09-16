@@ -1,3 +1,13 @@
+main:
+  - title: Quick Start Guide
+    url: docs/start
+  - title: Tutorial
+    url: docs/tutorial
+  - title: Examples
+    url: docs/examples
+  - title: API
+    url: docs/api
+
 docs:
   - title: Getting Started
     children:
