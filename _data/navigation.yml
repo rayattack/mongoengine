@@ -1,0 +1,12 @@
+docs:
+  - title: Getting Started
+    children:
+      - title: "Installing Mongoid"
+        url: docs/installation
+      - title: "Configuration and Settings"
+        url: docs/configuration
+
+  - title: Quick Start Guide
+    children:
+      - title: "Defining Document Structures"
+        url: docs/start
