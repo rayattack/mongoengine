@@ -1,3 +1,4 @@
 theme: jekyll-theme-minimal
+show_downloads: true
 header_pages:
   - about/some.md
